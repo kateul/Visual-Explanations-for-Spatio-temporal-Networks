@@ -15,7 +15,7 @@ Hi, here I am storing all the articles and works that are related to explainable
 https://github.com/UtopAIBuilder/Grad-CAM-for-video-and-regression-task
 
 3. Spatio-Temporal-Perturbations-for-Video-Attribution
-[GitHub Pages] (https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
+[GitHub Pages](https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
 
 :writing_hand: Articles 
 
