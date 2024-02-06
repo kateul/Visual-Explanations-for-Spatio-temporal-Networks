@@ -4,11 +4,10 @@
 Hi, here I am storing all the articles and works that are related to explainable artificial intelligence and video data :hugs:
 
 
-
-
-
 **3D-CNN**
+
 :desktop_computer: Repositories 
+
 1. Visually explaining 3D-CNN predictions for video classification with an adaptive occlusion sensitivity analysis
    https://github.com/uchiyama33/AOSA
 
@@ -16,7 +15,7 @@ Hi, here I am storing all the articles and works that are related to explainable
 https://github.com/UtopAIBuilder/Grad-CAM-for-video-and-regression-task
 
 3. Spatio-Temporal-Perturbations-for-Video-Attribution
-https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution
+[GitHub Pages] (https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
 
 :writing_hand: Articles 
 
