@@ -76,11 +76,10 @@ The key results of this paper are the proposal of Saliency Tubes as a method to 
 :desktop_computer: Repositories
 1. Transformer-Explainability  [GitHub](https://github.com/hila-chefer/Transformer-Explainability)
    
-Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization
+Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization. ViT explainability for images
 
-3. Transformer-Explainability [GitHub](https://github.com/hila-chefer/Transformer-Explainability?tab=readme-ov-file)
    
-ViT explainability for images
+
 
 
 ## **XAI Methods**
