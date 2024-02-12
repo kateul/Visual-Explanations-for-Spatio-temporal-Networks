@@ -70,6 +70,10 @@ The methods used in the paper are Saliency Tubes, a generalized attention mechan
       
 The key results of this paper are the proposal of Saliency Tubes as a method to visualize the activation maps of 3D CNNs, the demonstration of Saliency Tubes on existing video recognition models for action classification and egocentric action recognition, and the improvement of interpretability of 3D CNNs by revealing the spatio-temporal regions that are most informative for predicting action classes.
 
+     *2016 year*
+
+   **3. Selvaraju, Ramprasaath R. et al. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision 128 (2016): 336 - 359.**
+[Article](https://z-p3-scontent-muc2-1.xx.fbcdn.net/v/t39.8562-6/78951195_2176196352683826_3137830233747488768_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=0RkVz8D3XhwAX-0Fe7i&_nc_ht=z-p3-scontent-muc2-1.xx&oh=00_AfA8BvrkIG0iZrLqhZSrSvTAHfzz6JmKw9FCc7BYxkkaIw&oe=65D00F9D)
 
 ## **Transformers**
 
