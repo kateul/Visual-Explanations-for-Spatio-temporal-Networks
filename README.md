@@ -9,13 +9,17 @@ Hi, here I am storing all the articles and works that are related to explainable
 :desktop_computer: Repositories 
 
 1. [Visually explaining 3D-CNN predictions for video classification with an adaptive occlusion sensitivity analysis](https://github.com/uchiyama33/AOSA)
-   3DCNN
+   Model R3D [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
+   Datset UCF-101
 
 3. [Grad-CAM-for-video-and-regression-task](https://github.com/UtopAIBuilder/Grad-CAM-for-video-and-regression-task)
+   - First model uses 3D convolution over time and space
+   - Second uses vanilla LSTM over 2D CNN model
+   - Third model uses LSTM over 2D CNN model with attention
 
-4. [Spatio-Temporal-Perturbations-for-Video-Attribution](https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
+5. [Spatio-Temporal-Perturbations-for-Video-Attribution](https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
    
-5. [Pytorch code for paper "TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos"](https://github.com/sbelharbi/tcam-wsol-video?tab=readme-ov-file)
+6. [Pytorch code for paper "TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos"](https://github.com/sbelharbi/tcam-wsol-video?tab=readme-ov-file)
 
 
 
