@@ -12,14 +12,14 @@ Hi, here I am storing all the articles and works that are related to explainable
    Model R3D [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
    Datset UCF-101
 
-3. [Grad-CAM-for-video-and-regression-task](https://github.com/UtopAIBuilder/Grad-CAM-for-video-and-regression-task)
+2. [Grad-CAM-for-video-and-regression-task](https://github.com/UtopAIBuilder/Grad-CAM-for-video-and-regression-task)
    - First model uses 3D convolution over time and space
    - Second uses vanilla LSTM over 2D CNN model
    - Third model uses LSTM over 2D CNN model with attention
 
-5. [Spatio-Temporal-Perturbations-for-Video-Attribution](https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
+3. [Spatio-Temporal-Perturbations-for-Video-Attribution](https://github.com/shinkyo0513/Spatio-Temporal-Perturbations-for-Video-Attribution)
    
-6. [Pytorch code for paper "TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos"](https://github.com/sbelharbi/tcam-wsol-video?tab=readme-ov-file)
+4. [Pytorch code for paper "TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos"](https://github.com/sbelharbi/tcam-wsol-video?tab=readme-ov-file)
 
 
 
@@ -40,7 +40,10 @@ The key results of this paper include the adaptation of six explanation techniqu
 The goal of this paper is to propose a model called HIPE (Hierarchical Prototype Explainer) for video action recognition that provides multi-level explanations by learning hierarchical prototypes.
       
 The key results of this paper are that the proposed Hierarchical Prototype Explainer (HIPE) outperforms a non-hierarchical approach on the UCF-101 dataset and performs equally well on the ActivityNet dataset. HIPE provides multi-level explanations, allowing for a deeper understanding of the spatiotemporal parts that contribute to different levels of classification.
-      
+
+   **2. Jalal, Nour Aldeen et al. “Laparoscopic Video Analysis Using Temporal, Attention, and Multi-Feature Fusion Based-Approaches.” Sensors (Basel, Switzerland) 23 (2023): n. pag.**
+[Article](https://www.semanticscholar.org/paper/Surgical-phase-classification-and-operative-skill-Pradeep-Sinha/d82ec32fa2b932ff76175282d8c49ed51db23fe4?citedSort=relevance&citedPage=3)
+
 *2022 year*
       
    **1. Hartley, Thomas et al. “SWAG-V: Explanations for Video using Superpixels Weighted by Average Gradients.” 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (2022): 1576-1585.**
@@ -53,21 +56,39 @@ The goal of this paper is to propose a 3D ACE (Automatic Concept-based Explanati
       
 The key results of this paper include the development of a 3D ACE framework for interpreting 3D ConvNets, the discovery of spatial-temporal concepts of different importance levels, and the exploration of the influence of these concepts on a target task, such as action classification.
 
-      [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
+   [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
       
 *2021 year*
       
    **1. Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 1119-1128.**
       
-      [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
+   [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
          
    **2.Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Confere
    nce on Applications of Computer Vision (WACV) (2020): 1119-1128.**
       [Article](https://www.semanticscholar.org/paper/Towards-Visually-Explaining-Video-Understanding-Li-Wang/b9338b7de4b849cb094aa4cbd5b85f9935a4ae00)
+
+*2020 year*
+
+   **1. Sümer, Ömer et al. “Attention Flow: End-to-End Joint Attention Estimation.” 2020 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 3316-3325.**
+      [Article](https://www.researchgate.net/publication/338569697_Attention_Flow_End-to-End_Joint_Attention_Estimation)
+
+      The goal of this paper is to address the problem of understanding joint attention in third-person social scene videos and propose a method, Attention Flow, that learns joint attention in an end-to-end fashion.
+
+      The key results of this paper are that the proposed Attention Flow method successfully learns joint attention in third-person social scene videos, achieving an accuracy of 78.1% in detecting joint attention and localizing co-attention bounding boxes with an L2 distance of 62.84.
+
+      The paper uses saliency-augmented attention maps and two novel convolutional attention mechanisms to determine relevant features and improve joint attention localization.
+
+   **2. Interpreting Video Features: a Comparison of 3D Convolutional Networks and Convolutional LSTM Networks Joonatan Mänttäri, Sofia Broomé, John Folkesson, Hedvig Kjellström. Joint first authorship ACCV 2020, 15th Asian Conference on Computer Vision, to appear.**
+
+ [Article](https://arxiv.org/pdf/2002.00367.pdf)
+ 
+ [GitHub](https://interpreting-video-features.github.io/)
       
-     *2019 year*
       
-   **3. Stergiou, Alexandros et al. “Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions.” 2019 IEEE International Conference on Image Processing (ICIP) (2019): 1830-1834.**
+*2019 year*
+      
+   **1. Stergiou, Alexandros et al. “Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions.” 2019 IEEE International Conference on Image Processing (ICIP) (2019): 1830-1834.**
       [Article](https://www.semanticscholar.org/paper/Saliency-Tubes%3A-Visual-Explanations-for-Stergiou-Kapidis/7a307c21fdd9a3edff092fe0485399714e53fd7a#citing-papers)
       
 The methods used in the paper are Saliency Tubes, a generalized attention mechanism for explaining CNN decisions, and 3D Convolutional Neural Networks (CNNs) for video classification and recognition.
@@ -76,7 +97,7 @@ The key results of this paper are the proposal of Saliency Tubes as a method to 
 
      *2016 year*
 
-   **3. Selvaraju, Ramprasaath R. et al. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision 128 (2016): 336 - 359.**
+   **1. Selvaraju, Ramprasaath R. et al. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision 128 (2016): 336 - 359.**
 [Article](https://z-p3-scontent-muc2-1.xx.fbcdn.net/v/t39.8562-6/78951195_2176196352683826_3137830233747488768_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=0RkVz8D3XhwAX-0Fe7i&_nc_ht=z-p3-scontent-muc2-1.xx&oh=00_AfA8BvrkIG0iZrLqhZSrSvTAHfzz6JmKw9FCc7BYxkkaIw&oe=65D00F9D)
 
 ## **Transformers**
@@ -108,9 +129,10 @@ Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interp
 1. [A toolbox to iNNvestigate neural networks' predictions!](https://github.com/albermax/innvestigate?tab=readme-ov-file#usage-and-examples)
 
 ## **Video**
+
 1. [OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark](https://github.com/open-mmlab/mmaction2)
 
-3. [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+2. [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 ## **Survey Papers for XAI and/or medicine**
 
@@ -118,4 +140,8 @@ Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interp
 
 2. [Surgical-Phase-Recognition](https://github.com/maxboels/Surgical-Phase-Recognition)
 
+## **Medicine**
 
+Abdulbaki Alshirbaji T, Jalal NA, Docherty PD, Neumuth T, Möller K. Robustness of Convolutional Neural Networks for Surgical Tool Classification in Laparoscopic Videos from Multiple Sources and of Multiple Types: A Systematic Evaluation. Electronics. 2022; 11(18):2849. https://doi.org/10.3390/electronics11182849 
+
+[Article](https://www.mdpi.com/2079-9292/11/18/2849)
