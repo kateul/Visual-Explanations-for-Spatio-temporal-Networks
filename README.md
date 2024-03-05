@@ -57,7 +57,14 @@ The goal of this paper is to propose a 3D ACE (Automatic Concept-based Explanati
 The key results of this paper include the development of a 3D ACE framework for interpreting 3D ConvNets, the discovery of spatial-temporal concepts of different importance levels, and the exploration of the influence of these concepts on a target task, such as action classification.
 
    [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
-      
+
+   **3. Ramesh, Sanat et al. “Dissecting Self-Supervised Learning Methods for Surgical Computer Vision.” Medical image analysis 88 (2022): 102844 .**
+   [Article](https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174)
+   [GitHub](https://github.com/CAMMA-public/SelfSupSurg)
+
+
+   **4. Mänttäri, Joonatan et al. “Interpreting video features: a comparison of 3D convolutional networks and convolutional LSTM networks.” Asian Conference on Computer Vision (2020).**
+   [Article](https://arxiv.org/abs/2002.00367
 *2021 year*
       
    **1. Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 1119-1128.**
@@ -67,6 +74,13 @@ The key results of this paper include the development of a 3D ACE framework for 
    **2.Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Confere
    nce on Applications of Computer Vision (WACV) (2020): 1119-1128.**
       [Article](https://www.semanticscholar.org/paper/Towards-Visually-Explaining-Video-Understanding-Li-Wang/b9338b7de4b849cb094aa4cbd5b85f9935a4ae00)
+
+
+      file:///C:/Users/gultr/Downloads/17374-Article%20Text-20868-1-2-20210518.pdf
+      https://arxiv.org/abs/2207.00449
+      https://github.com/CAMMA-public/SelfSupSurg
+      https://github.com/mmaaz60/ssl_for_fgvc
+      https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174
 
 *2020 year*
 
@@ -90,6 +104,9 @@ The key results of this paper include the development of a 3D ACE framework for 
       
    **1. Stergiou, Alexandros et al. “Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions.” 2019 IEEE International Conference on Image Processing (ICIP) (2019): 1830-1834.**
       [Article](https://www.semanticscholar.org/paper/Saliency-Tubes%3A-Visual-Explanations-for-Stergiou-Kapidis/7a307c21fdd9a3edff092fe0485399714e53fd7a#citing-papers)
+
+   [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
+   
       
 The methods used in the paper are Saliency Tubes, a generalized attention mechanism for explaining CNN decisions, and 3D Convolutional Neural Networks (CNNs) for video classification and recognition.
       
@@ -119,9 +136,10 @@ Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interp
    [GitHub](https://github.com/1Konny/gradcam_plus_plus-pytorch)
 2. pytorch-grad-cam
    [GitHub](https://github.com/jacobgil/pytorch-grad-cam)
-3. Grad_CAM_plus_plus
+   https://jacobgil.github.io/pytorch-gradcam-book/HuggingFace.html
+4. Grad_CAM_plus_plus
    [GitHub](https://github.com/adityac94/Grad_CAM_plus_plus)
-4. Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM) 
+5. Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM) 
    [GitHub](https://github.com/frgfm/torch-cam)
 
 :star2: *Other*
@@ -145,3 +163,17 @@ Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interp
 Abdulbaki Alshirbaji T, Jalal NA, Docherty PD, Neumuth T, Möller K. Robustness of Convolutional Neural Networks for Surgical Tool Classification in Laparoscopic Videos from Multiple Sources and of Multiple Types: A Systematic Evaluation. Electronics. 2022; 11(18):2849. https://doi.org/10.3390/electronics11182849 
 
 [Article](https://www.mdpi.com/2079-9292/11/18/2849)
+
+
+TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks
+[Article](https://arxiv.org/pdf/2003.10751.pdf)
+
+
+## **Good Links**
+https://opensource.salesforce.com/OmniXAI/latest/tutorials/vision/gradcam_torch.html
+
+https://github.com/interpretml/interpret
+
+https://github.com/C-Ritam98/GradCAM-on-Video
+
+http://www.diva-portal.se/smash/get/diva2:1316346/FULLTEXT01.pdf
