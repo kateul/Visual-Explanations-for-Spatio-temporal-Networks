@@ -8,6 +8,8 @@ Hi, here I am storing all the articles and works that are related to explainable
 
 :desktop_computer: Repositories CNN
 
+Base: TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks [Article](https://arxiv.org/pdf/2003.10751.pdf) [GitHub](https://github.com/tobiascz/TeCNO)
+
 1. [Visually explaining 3D-CNN predictions for video classification with an adaptive occlusion sensitivity analysis](https://github.com/uchiyama33/AOSA)
    Model R3D [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
    Datset UCF-101
@@ -24,15 +26,18 @@ Hi, here I am storing all the articles and works that are related to explainable
 
 :desktop_computer: Repositories Transformers
 
+Base: LoViT: Long Video Transformer for Surgical Phase Recognition [Article](https://arxiv.org/pdf/2305.08989v3.pdf) [GitHub](https://github.com/MRUIL/LoViT/tree/main)  the full code is not available!
+
 1. Transformer-Explainability  [GitHub](https://github.com/hila-chefer/Transformer-Explainability)
    
 Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization. ViT explainability for images
 
 :desktop_computer: Repositories SSL
 
+Base: Dissecting Self-Supervised Learning Methods for Surgical Computer Vision [Atticle](https://arxiv.org/abs/2207.00449v3) [GitHub](https://github.com/camma-public/selfsupsurg)
+
       file:///C:/Users/gultr/Downloads/17374-Article%20Text-20868-1-2-20210518.pdf
-      https://arxiv.org/abs/2207.00449
-      https://github.com/CAMMA-public/SelfSupSurg
+
       https://github.com/mmaaz60/ssl_for_fgvc
       https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174
 
@@ -163,8 +168,6 @@ Abdulbaki Alshirbaji T, Jalal NA, Docherty PD, Neumuth T, Möller K. Robustness 
 [Article](https://www.mdpi.com/2079-9292/11/18/2849)
 
 
-TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks
-[Article](https://arxiv.org/pdf/2003.10751.pdf)
 
 
 ## **Good Links**
