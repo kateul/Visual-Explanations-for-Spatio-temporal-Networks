@@ -4,9 +4,9 @@
 Hi, here I am storing all the articles and works that are related to explainable artificial intelligence and video data :hugs:
 
 
-## **NN for XAI in Videos**
+## **XAI in Videos**
 
-:desktop_computer: Repositories 
+:desktop_computer: Repositories CNN
 
 1. [Visually explaining 3D-CNN predictions for video classification with an adaptive occlusion sensitivity analysis](https://github.com/uchiyama33/AOSA)
    Model R3D [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
@@ -21,6 +21,20 @@ Hi, here I am storing all the articles and works that are related to explainable
    
 4. [Pytorch code for paper "TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos"](https://github.com/sbelharbi/tcam-wsol-video?tab=readme-ov-file)
 
+
+:desktop_computer: Repositories Transformers
+
+1. Transformer-Explainability  [GitHub](https://github.com/hila-chefer/Transformer-Explainability)
+   
+Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization. ViT explainability for images
+
+:desktop_computer: Repositories SSL
+
+      file:///C:/Users/gultr/Downloads/17374-Article%20Text-20868-1-2-20210518.pdf
+      https://arxiv.org/abs/2207.00449
+      https://github.com/CAMMA-public/SelfSupSurg
+      https://github.com/mmaaz60/ssl_for_fgvc
+      https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174
 
 
 :writing_hand: Articles 
@@ -42,7 +56,7 @@ The goal of this paper is to propose a model called HIPE (Hierarchical Prototype
 The key results of this paper are that the proposed Hierarchical Prototype Explainer (HIPE) outperforms a non-hierarchical approach on the UCF-101 dataset and performs equally well on the ActivityNet dataset. HIPE provides multi-level explanations, allowing for a deeper understanding of the spatiotemporal parts that contribute to different levels of classification.
 
    **2. Jalal, Nour Aldeen et al. “Laparoscopic Video Analysis Using Temporal, Attention, and Multi-Feature Fusion Based-Approaches.” Sensors (Basel, Switzerland) 23 (2023): n. pag.**
-[Article](https://www.semanticscholar.org/paper/Surgical-phase-classification-and-operative-skill-Pradeep-Sinha/d82ec32fa2b932ff76175282d8c49ed51db23fe4?citedSort=relevance&citedPage=3)
+      [Article](https://www.semanticscholar.org/paper/Surgical-phase-classification-and-operative-skill-Pradeep-Sinha/d82ec32fa2b932ff76175282d8c49ed51db23fe4?citedSort=relevance&citedPage=3)
 
 *2022 year*
       
@@ -56,31 +70,25 @@ The goal of this paper is to propose a 3D ACE (Automatic Concept-based Explanati
       
 The key results of this paper include the development of a 3D ACE framework for interpreting 3D ConvNets, the discovery of spatial-temporal concepts of different importance levels, and the exploration of the influence of these concepts on a target task, such as action classification.
 
-   [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
+      [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
 
    **3. Ramesh, Sanat et al. “Dissecting Self-Supervised Learning Methods for Surgical Computer Vision.” Medical image analysis 88 (2022): 102844 .**
-   [Article](https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174)
-   [GitHub](https://github.com/CAMMA-public/SelfSupSurg)
+      [Article](https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174)
+      [GitHub](https://github.com/CAMMA-public/SelfSupSurg)
 
 
    **4. Mänttäri, Joonatan et al. “Interpreting video features: a comparison of 3D convolutional networks and convolutional LSTM networks.” Asian Conference on Computer Vision (2020).**
-   [Article](https://arxiv.org/abs/2002.00367
+      [Article](https://arxiv.org/abs/2002.00367
+
 *2021 year*
       
    **1. Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 1119-1128.**
-      
-   [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
+      [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
          
    **2.Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Confere
    nce on Applications of Computer Vision (WACV) (2020): 1119-1128.**
       [Article](https://www.semanticscholar.org/paper/Towards-Visually-Explaining-Video-Understanding-Li-Wang/b9338b7de4b849cb094aa4cbd5b85f9935a4ae00)
 
-
-      file:///C:/Users/gultr/Downloads/17374-Article%20Text-20868-1-2-20210518.pdf
-      https://arxiv.org/abs/2207.00449
-      https://github.com/CAMMA-public/SelfSupSurg
-      https://github.com/mmaaz60/ssl_for_fgvc
-      https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174
 
 *2020 year*
 
@@ -104,29 +112,19 @@ The key results of this paper include the development of a 3D ACE framework for 
       
    **1. Stergiou, Alexandros et al. “Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions.” 2019 IEEE International Conference on Image Processing (ICIP) (2019): 1830-1834.**
       [Article](https://www.semanticscholar.org/paper/Saliency-Tubes%3A-Visual-Explanations-for-Stergiou-Kapidis/7a307c21fdd9a3edff092fe0485399714e53fd7a#citing-papers)
-
-   [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
+      [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
    
       
 The methods used in the paper are Saliency Tubes, a generalized attention mechanism for explaining CNN decisions, and 3D Convolutional Neural Networks (CNNs) for video classification and recognition.
       
 The key results of this paper are the proposal of Saliency Tubes as a method to visualize the activation maps of 3D CNNs, the demonstration of Saliency Tubes on existing video recognition models for action classification and egocentric action recognition, and the improvement of interpretability of 3D CNNs by revealing the spatio-temporal regions that are most informative for predicting action classes.
 
-     *2016 year*
+*2016 year*
 
    **1. Selvaraju, Ramprasaath R. et al. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision 128 (2016): 336 - 359.**
-[Article](https://z-p3-scontent-muc2-1.xx.fbcdn.net/v/t39.8562-6/78951195_2176196352683826_3137830233747488768_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=0RkVz8D3XhwAX-0Fe7i&_nc_ht=z-p3-scontent-muc2-1.xx&oh=00_AfA8BvrkIG0iZrLqhZSrSvTAHfzz6JmKw9FCc7BYxkkaIw&oe=65D00F9D)
-
-## **Transformers**
-
-:desktop_computer: Repositories
-1. Transformer-Explainability  [GitHub](https://github.com/hila-chefer/Transformer-Explainability)
-   
-Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization. ViT explainability for images
+      [Article](https://z-p3-scontent-muc2-1.xx.fbcdn.net/v/t39.8562-6/78951195_2176196352683826_3137830233747488768_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=0RkVz8D3XhwAX-0Fe7i&_nc_ht=z-p3-scontent-muc2-1.xx&oh=00_AfA8BvrkIG0iZrLqhZSrSvTAHfzz6JmKw9FCc7BYxkkaIw&oe=65D00F9D)
 
    
-
-
 
 ## **XAI Methods**
 :star2: *Grad-CAM*
