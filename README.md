@@ -1,14 +1,14 @@
 # Visual-Explanations-for-Spatio-temporal-Networks
 
 
-Hi, here I am storing all the articles and works that are related to explainable artificial intelligence and video data :hugs:
+Hi, here I am storing all the articles and works that are related to explainable artificial intelligence and video data, in particular, in the field of phase recognition of surgical operations :hugs:
 
 
 ## **XAI in Videos**
 
-:desktop_computer: Repositories CNN
+**Repositories**
 
-Base: TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks [Article](https://arxiv.org/pdf/2003.10751.pdf) [GitHub](https://github.com/tobiascz/TeCNO)
+:desktop_computer: Repositories CNN
 
 1. [Visually explaining 3D-CNN predictions for video classification with an adaptive occlusion sensitivity analysis](https://github.com/uchiyama33/AOSA)
    Model R3D [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
@@ -26,23 +26,37 @@ Base: TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional 
 
 :desktop_computer: Repositories Transformers
 
-Base: LoViT: Long Video Transformer for Surgical Phase Recognition [Article](https://arxiv.org/pdf/2305.08989v3.pdf) [GitHub](https://github.com/MRUIL/LoViT/tree/main)  the full code is not available!
-
 1. Transformer-Explainability  [GitHub](https://github.com/hila-chefer/Transformer-Explainability)
    
-Implementation of [Article](https://arxiv.org/abs/2012.09838) Transformer Interpretability Beyond Attention Visualization. ViT explainability for images
+Implementation of Chefer, Hila et al. “Transformer Interpretability Beyond Attention Visualization.” 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2020): 782-791. [Article](https://arxiv.org/abs/2012.09838). ViT explainability for images
 
 :desktop_computer: Repositories SSL
 
-Base: Dissecting Self-Supervised Learning Methods for Surgical Computer Vision [Atticle](https://arxiv.org/abs/2207.00449v3) [GitHub](https://github.com/camma-public/selfsupsurg)
-
-      file:///C:/Users/gultr/Downloads/17374-Article%20Text-20868-1-2-20210518.pdf
-
-      https://github.com/mmaaz60/ssl_for_fgvc
-      https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174
+1. ...
 
 
-:writing_hand: Articles 
+:desktop_computer: Repositories LSTM
+
+1. CS230-CNN-LSTM: Workflow Recognition from Surgical Videos using LSTM [GitHub](https://github.com/madhuhegde/C230_CNN_LSTM)
+
+:star2: :desktop_computer: *Grad-CAM Repositories*
+
+1. A Simple pytorch implementation of GradCAM and GradCAM++ (for Images)
+   [GitHub](https://github.com/1Konny/gradcam_plus_plus-pytorch)
+2. pytorch-grad-cam
+   [GitHub](https://github.com/jacobgil/pytorch-grad-cam)
+   https://jacobgil.github.io/pytorch-gradcam-book/HuggingFace.html
+3. Grad_CAM_plus_plus
+   [GitHub](https://github.com/adityac94/Grad_CAM_plus_plus)
+4. Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM) 
+   [GitHub](https://github.com/frgfm/torch-cam)
+
+:star2: :desktop_computer: *Other*
+
+1. [A toolbox to iNNvestigate neural networks' predictions!](https://github.com/albermax/innvestigate?tab=readme-ov-file#usage-and-examples)
+
+
+**:writing_hand: Articles** 
       
 *2024 year*
       
@@ -50,6 +64,10 @@ Base: Dissecting Self-Supervised Learning Methods for Surgical Computer Vision [
       [Article](https://www.semanticscholar.org/paper/Local-Agnostic-Video-Explanations%3A-a-Study-on-the-Gaya-Morey-Buades-Rubio/ec8f1b25935904e8866d51d93e27ce0894e324a4)
 
 The key results of this paper include the adaptation of six explanation techniques for video data, the evaluation and comparison of these methods using different models and datasets, and the finding that 3D RISE, 3D LIME, and 3D Kernel SHAP outperform other methods.
+
+   **2. Kowal, Matthew et al. “Understanding Video Transformers via Universal Concept Discovery.” ArXiv abs/2401.10831 (2024): n. pag.**
+      [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
+
       
 *2023 year*
       
@@ -77,21 +95,13 @@ The key results of this paper include the development of a 3D ACE framework for 
 
       [GitHub](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions)
 
-   **3. Ramesh, Sanat et al. “Dissecting Self-Supervised Learning Methods for Surgical Computer Vision.” Medical image analysis 88 (2022): 102844 .**
-      [Article](https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174)
-      [GitHub](https://github.com/CAMMA-public/SelfSupSurg)
 
-
-   **4. Mänttäri, Joonatan et al. “Interpreting video features: a comparison of 3D convolutional networks and convolutional LSTM networks.” Asian Conference on Computer Vision (2020).**
+   **3. Mänttäri, Joonatan et al. “Interpreting video features: a comparison of 3D convolutional networks and convolutional LSTM networks.” Asian Conference on Computer Vision (2020).**
       [Article](https://arxiv.org/abs/2002.00367
 
 *2021 year*
-      
-   **1. Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 1119-1128.**
-      [Article](https://www.semanticscholar.org/paper/Understanding-Video-Transformers-via-Universal-Kowal-Dave/f717c3581620b198fc22b5f5bd946286f4ab1e0b)
-         
-   **2.Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Confere
-   nce on Applications of Computer Vision (WACV) (2020): 1119-1128.**
+             
+   **1.Li, Zhenqiang et al. “Towards Visually Explaining Video Understanding Networks with Perturbation.” 2021 IEEE Winter Conference on Applications of Computer Vision (WACV) (2020): 1119-1128.**
       [Article](https://www.semanticscholar.org/paper/Towards-Visually-Explaining-Video-Understanding-Li-Wang/b9338b7de4b849cb094aa4cbd5b85f9935a4ae00)
 
 
@@ -130,25 +140,6 @@ The key results of this paper are the proposal of Saliency Tubes as a method to 
       [Article](https://z-p3-scontent-muc2-1.xx.fbcdn.net/v/t39.8562-6/78951195_2176196352683826_3137830233747488768_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=0RkVz8D3XhwAX-0Fe7i&_nc_ht=z-p3-scontent-muc2-1.xx&oh=00_AfA8BvrkIG0iZrLqhZSrSvTAHfzz6JmKw9FCc7BYxkkaIw&oe=65D00F9D)
 
    
-
-## **XAI Methods**
-:star2: *Grad-CAM*
-
-:desktop_computer: Repositories
-1. A Simple pytorch implementation of GradCAM and GradCAM++ (for Images)
-   [GitHub](https://github.com/1Konny/gradcam_plus_plus-pytorch)
-2. pytorch-grad-cam
-   [GitHub](https://github.com/jacobgil/pytorch-grad-cam)
-   https://jacobgil.github.io/pytorch-gradcam-book/HuggingFace.html
-4. Grad_CAM_plus_plus
-   [GitHub](https://github.com/adityac94/Grad_CAM_plus_plus)
-5. Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM) 
-   [GitHub](https://github.com/frgfm/torch-cam)
-
-:star2: *Other*
-
-1. [A toolbox to iNNvestigate neural networks' predictions!](https://github.com/albermax/innvestigate?tab=readme-ov-file#usage-and-examples)
-
 ## **Video**
 
 1. [OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark](https://github.com/open-mmlab/mmaction2)
@@ -161,13 +152,19 @@ The key results of this paper are the proposal of Saliency Tubes as a method to 
 
 2. [Surgical-Phase-Recognition](https://github.com/maxboels/Surgical-Phase-Recognition)
 
-## **Medicine**
+///////////////////////////////////////////////////////////////////////////
+## **Surgical phase recognition on Cholec80**
+
+1. Czempiel, Tobias et al. “TeCNO: Surgical Phase Recognition with Multi-Stage Temporal Convolutional Networks.” ArXiv abs/2003.10751 (2020): n. pag. [Article](https://arxiv.org/pdf/2003.10751.pdf) [GitHub](https://github.com/tobiascz/TeCNO)
+
 
 Abdulbaki Alshirbaji T, Jalal NA, Docherty PD, Neumuth T, Möller K. Robustness of Convolutional Neural Networks for Surgical Tool Classification in Laparoscopic Videos from Multiple Sources and of Multiple Types: A Systematic Evaluation. Electronics. 2022; 11(18):2849. https://doi.org/10.3390/electronics11182849 
 
 [Article](https://www.mdpi.com/2079-9292/11/18/2849)
 
-
+2. Ramesh, Sanat et al. “Dissecting Self-Supervised Learning Methods for Surgical Computer Vision.” Medical image analysis 88 (2022): 102844 .**
+      [Article](https://www.semanticscholar.org/reader/c118fd58ee236828baab90e4aba660df88ea4174)
+      [GitHub](https://github.com/CAMMA-public/SelfSupSurg)
 
 
 ## **Good Links**
@@ -178,3 +175,7 @@ https://github.com/interpretml/interpret
 https://github.com/C-Ritam98/GradCAM-on-Video
 
 http://www.diva-portal.se/smash/get/diva2:1316346/FULLTEXT01.pdf
+
+https://www.kaggle.com/code/asraf047/lstm-grad-cam
+
+https://www.sciencedirect.com/science/article/pii/S1746809421003980#fig0010
