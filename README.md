@@ -32,7 +32,7 @@ Implementation of Chefer, Hila et al. “Transformer Interpretability Beyond Att
 
 :desktop_computer: Repositories SSL
 
-1. ...
+1. Understanding Video Transformers via Universal Concept Discovery [GitHub](https://github.com/YorkUCVIL/VTCD/blob/main/run_vcd.py) https://huggingface.co/papers/2401.10831
 
 
 :desktop_computer: Repositories LSTM
